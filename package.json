@@ -1,0 +1,32 @@
+{
+  "name": "env-from-s3",
+  "version": "1.0.0",
+  "description": "Read an S3 file to set Node process.env variables.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bwinkers/env-from-s3.git"
+  },
+  "keywords": [
+    "AWS",
+    "S3",
+    "process.env",
+    "env",
+    "environment"
+  ],
+  "author": "Brian Winkers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bwinkers/env-from-s3/issues"
+  },
+  "homepage": "https://github.com/bwinkers/env-from-s3#readme",
+  "dependencies": {
+    "aws-sdk": "^2.254.1"
+  },
+  "files": {
+      
+  }
+}
