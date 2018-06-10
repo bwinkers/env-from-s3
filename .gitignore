@@ -59,3 +59,6 @@ typings/
 
 # next.js build output
 .next
+/nbproject/private/
+/nbproject/project.xml
+/nbproject/project.properties
